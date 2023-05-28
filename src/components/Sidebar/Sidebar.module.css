@@ -1,0 +1,25 @@
+.bgColor {
+    background-color: rgb(246, 247, 249);
+}
+
+
+  
+  .keywordList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .keywordList li {
+    cursor: pointer;
+    padding: 10px;
+    text-align: start;
+    border-bottom: 1px solid #ccc;
+  }
+  
+
+  .keywordList li.active {
+    font-weight: 600;
+    color: rgb(16, 95, 213);
+  }
+  
+ 
